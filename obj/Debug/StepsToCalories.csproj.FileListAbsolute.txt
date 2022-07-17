@@ -1,0 +1,8 @@
+C:\Users\npand\repos\StepsToCalories\StepsToCalories\bin\Debug\StepsToCalories.exe.config
+C:\Users\npand\repos\StepsToCalories\StepsToCalories\bin\Debug\StepsToCalories.exe
+C:\Users\npand\repos\StepsToCalories\StepsToCalories\bin\Debug\StepsToCalories.pdb
+C:\Users\npand\repos\StepsToCalories\StepsToCalories\obj\Debug\StepsToCalories.csproj.AssemblyReference.cache
+C:\Users\npand\repos\StepsToCalories\StepsToCalories\obj\Debug\StepsToCalories.csproj.SuggestedBindingRedirects.cache
+C:\Users\npand\repos\StepsToCalories\StepsToCalories\obj\Debug\StepsToCalories.csproj.CoreCompileInputs.cache
+C:\Users\npand\repos\StepsToCalories\StepsToCalories\obj\Debug\StepsToCalories.exe
+C:\Users\npand\repos\StepsToCalories\StepsToCalories\obj\Debug\StepsToCalories.pdb
